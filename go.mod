@@ -1,3 +1,3 @@
-module github.com/mogolade/go-template
+module github.com/weavc/go-template
 
-go 1.13
+go 1.14
